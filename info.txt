@@ -1,0 +1,14 @@
+Path
+Add i System variabler
+PYTHON_HOME
+C:\Users\thornmat\AppData\Local\Programs\Python\Python39
+
+PIP_HOME
+C:\Users\thornmat\AppData\Local\Programs\Python\Python39\Scripts
+
+Add i Användar variabler
+Path 
+%PYTHON_HOME%
+%PIP_HOME%
+
+Restart only CMD
