@@ -1,5 +1,0 @@
-Hello File 3
-
-This is new information
-
-And this is another row
